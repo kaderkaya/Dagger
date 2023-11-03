@@ -15,6 +15,10 @@ class MainActivity : AppCompatActivity() {
         DaggerAppCompanent.builder().build(this)
 
 
+
+
+
+
         kargo.gonder()
 
         internet.başvuruYap()
