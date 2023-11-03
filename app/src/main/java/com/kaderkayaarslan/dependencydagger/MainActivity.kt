@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
+
         internet.başvuruYap()
 
     }
