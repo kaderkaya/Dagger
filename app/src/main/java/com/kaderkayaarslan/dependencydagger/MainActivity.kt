@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         DaggerAppCompanent.builder().build(this)
 
-
         kargo.gonder()
 
         internet.başvuruYap()
