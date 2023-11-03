@@ -17,6 +17,10 @@ class MainActivity : AppCompatActivity() {
 
         kargo.gonder()
 
+
+
+
+
         internet.başvuruYap()
 
     }
